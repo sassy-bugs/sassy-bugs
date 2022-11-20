@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![@agrima18's Holopin board](https://holopin.io/api/user/board?user=agrima18)](https://holopin.io/@agrima18)
-
+I'm definitely something more than a developer.
+Still working on this!! ~
