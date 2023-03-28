@@ -30,5 +30,6 @@ I have experience in:
 - Feel free to mail me at [guptaagrima200@gmail.com](mailto:guptaagrima200@gmail.com)
 - Let's connect on [Spotify](https://open.spotify.com/user/qabt9lrnj1xj9gn2a3qsi7vic) and share playlists *(T_T)*.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sassy-bugs&layout=compact&&hide=C%23,HLSL,ShaderLab&theme=tokyonight)](https://github.com/sassy-bugs/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sassy-bugs&show_icons=true&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true" />
 
