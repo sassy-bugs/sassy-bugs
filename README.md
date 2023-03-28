@@ -1,20 +1,34 @@
+# Agrima Gupta 🌟 
+[![Linkedin Badge](https://img.shields.io/badge/-agrimagupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agrima-gupta-ag18/)](https://www.linkedin.com/in/agrima-gupta-ag18/) 
+[![GitHub followers](https://img.shields.io/github/followers/sassy-bugs?label=Follow&style=social)](https://github.com/sassy-bugs/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-guptaagrima200@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guptaagrima200@gmail.com)](mailto:guptaagrima200@gmail.com) [![Discord Badge](https://img.shields.io/badge/defiant.magpie-blueviolet?style=flat-square&logo=Discord&logoColor=white&link=http://discord.com/users/defiant.magpie#5903)](http://discord.com/users/defiant.magpie#5903) [![Twitter Badge](https://img.shields.io/badge/-@agrimaa18-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agrimaa18)](https://twitter.com/agrimaa18) 
 
+### Howdy ~coders :octocat: ,
+I'm Agrima Gupta, a native Android developer enthusiast with a passion for creating beautiful, functional, and user-friendly apps. 
+I have always been fascinated by mobile technology and its ability to make our lives more convenient and enjoyable, and I love being able to use my skills to contribute to this exciting and constantly-evolving industry.
 
-<!--
-**sassy-bugs/sassy-bugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏢 Communities
+- Native Android Mentor at **LeanIn @IGDTUW**.
+- **Postman** Student Expert
+- Member of *Standards* in collaboration with the **Bureau of Indian Standards**.
+- Android Mentor at **EduHub Community**.
+- Student Fundraiser at **HelpAge India**.
 
-Here are some ideas to get you started:
+## 📌 Projects
+Here are some of my favorite projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm definitely something more than a developer.
-Still working on this!! ~
-Agrima Gupta 👨‍💻
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sassy-bugs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+## ⚡ Technologies
+I have experience in:
+- Native Android Developent using **Kotlin, Java, Android Studio**.
+- Backend development using **Node.js, Firebase** in various projects.
+- ChatBot development using **Python, Rasa framework**.
+- Game Development using **Unity and C#**.
+- Solving Data structure and algorithm questions in **Java**.
+- Mobile application development using **Flutter and Kotlin**(Still learning).
+
+### 🔗 Connect
+- Feel free to mail me at [guptaagrima200@gmail.com](mailto:guptaagrima200@gmail.com)
+- Let's connect on [Spotify](https://open.spotify.com/user/qabt9lrnj1xj9gn2a3qsi7vic) and share playlists *(T_T)*.
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sassy-bugs&show_icons=true&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true" />
+
