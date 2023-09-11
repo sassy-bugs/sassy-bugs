@@ -8,6 +8,7 @@ I'm Agrima Gupta, a native Android developer enthusiast with a passion for creat
 I have always been fascinated by mobile technology and its ability to make our lives more convenient and enjoyable, and I love being able to use my skills to contribute to this exciting and constantly-evolving industry.
 
 ## 🏢 Communities
+- Associate for *CS/IT Tech Team* at **Innerve**
 - Native Android Mentor at **LeanIn @IGDTUW**.
 - **Postman** Student Expert
 - Member of *Standards* in collaboration with the **Bureau of Indian Standards**.
