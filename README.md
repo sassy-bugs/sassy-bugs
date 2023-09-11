@@ -16,6 +16,10 @@ I have always been fascinated by mobile technology and its ability to make our l
 
 ## 📌 Projects
 Here are some of my favorite projects:
+- [Echo Eyes](https://github.com/sassy-bugs/EchoEyes)
+- [Campus Of Secrets](https://github.com/sassy-bugs/CampusOfSecrets)
+- [Student Support Bot](https://github.com/sassy-bugs/Job-Support)
+- [RAKSH](https://github.com/DevPriSha/Raksh)
 
 ## ⚡ Technologies
 I have experience in:
